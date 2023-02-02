@@ -11,8 +11,8 @@ function randomValueFromArray(array){
 const storyText = "It was a cool 19 fahrenheit outside, so :insertx: \
 decided to stay inside and eat Oreos and play ping pong. When they went to \
 open the Oreos package they :inserty:, they stared in horror \
-for a few moments, then :insertz:. Nick saw the whole thing, but was \
-not surprised — :insertx: likes the double stuff Oreos better anyways.";
+for a few moments, then :insertz:. Nick saw the whole thing, he knew what was up, \
+but was not surprised — :insertx: likes the double stuff Oreos better anyways.";
 
 const insertX = [
     "Andrew", 
